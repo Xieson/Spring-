@@ -1,0 +1,11 @@
+package com.clq.Spring;
+
+import org.springframework.context.applicationContext;
+
+public class SpringText {
+	public static void main(String[] args) {
+	//╪стьеДжцнд╪Ч	
+	applicationContext app- 
+		
+	}
+}

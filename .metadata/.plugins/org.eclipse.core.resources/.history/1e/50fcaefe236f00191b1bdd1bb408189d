@@ -1,0 +1,8 @@
+package com.clq.Springdemo;
+
+public class Springdean2 {
+	public static Springbean1 getSpringdean1(){
+		return new Springbean1();
+		
+	}
+}

@@ -1,0 +1,7 @@
+package com.clq.Springbean;
+
+public class Springtext {
+	public void add(){
+		System.out.println("Springtext........");
+	}
+}

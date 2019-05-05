@@ -1,0 +1,9 @@
+package com.clq.Spring;
+
+public class SpringText {
+	public static void main(String[] args) {
+		
+	System.out.println("nufh");
+		
+	}
+}

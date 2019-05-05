@@ -1,0 +1,7 @@
+package com.clq.Springbean;
+
+public class UsreSpring1 {
+	public  UsreSpring1 getUsreSpring1(){
+		return new UsreSpring1();
+	}
+}
